@@ -6,13 +6,13 @@ I am a Post-Doctoral Scholar at The Ohio State University developing frameworks 
 ## Species Boundary Morphometrics
 As with genetic data, technological advances have changed how we analyze morphology in our study systems. I am interested in comparing different methods of morphological analysis at the species boundary level using Yellow bat skulls. In collaboration with the <a href="https://imageomics.osu.edu/">Imageomics Institute</a>, I am collecting high-resolution CT scans of bat skulls and developing Machine Learning architectures to understand morpholoigcal variation at the species boundary.
 
-## <b>Systematics of Yellow Bats</b>
+## Systematics of Yellow Bats
 I have been using molecular methods to research Yellow bats since my first year as an undergraduate student, starting by sequencing cytochrome b for the two lineages of <em>Lasiurus intermedius</em>. I am now using Next Gen Sequencing methods to assess evolutionary patterns and speciation in the Yellow bat group.
 
-## <b>Historical Specimen Identification<b>
+## Historical Specimen Identification
 I am currently assisting an undergraduate researcher describe historical legless lizard specimens from CT scans. These specimens were collected during the Civil War in Ohio and are too fragile to be manipulated for morphological work. CT scanning whole specimens allowed us to characterize morpholoical traits without risking damage to the specimens.
 
-# Publications
+# <b>Publications</b>
 <b>Decker, Sydney K.</b>, Kaiya L. Provost, and Bryan C. Carstens. 2025. Bats of a feather: Range characteristics and wing morphology predict phylogeographic breaks in volant vertebrates. <em>Frontiers of Biogeography</em> 18:e139911. <a href="https://biogeography.pensoft.net/article/139911/">Link</a>
 
 ​Fonseca, Emanuel M., Tara A. Pelletier, <b>Sydney K. Decker</b>, Danielle J. Parsons, and Bryan C. Carstens. 2023. Pleistocene glaciations caused the latitudinal gradient of within-species genetic diversity. <em>Evolution Letters</em> <a href="https://doi.org/10.1093/evlett/qrad030">Link</a>
