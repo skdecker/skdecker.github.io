@@ -1,15 +1,15 @@
-# About Me
+# <b>About Me</b>
 
 I am a Post-Doctoral Scholar at The Ohio State University developing frameworks for integrated species delimitation using high-resolution data and sound data practices. I completed my PhD studying phylogeography and speciation in bats with Bryan Carstens. My dissertation research focused on evaluating evolutionary patterns in yellow bats and is heavily influenced by my interest in data science, machine learning, natural history collections, genomics, and statistics. 
 
-# Current Projects
+# <b>Current Projects</b>
 ## Species Boundary Morphometrics
 As with genetic data, technological advances have changed how we analyze morphology in our study systems. I am interested in comparing different methods of morphological analysis at the species boundary level using Yellow bat skulls. In collaboration with the <a href="https://imageomics.osu.edu/">Imageomics Institute</a>, I am collecting high-resolution CT scans of bat skulls and developing Machine Learning architectures to understand morpholoigcal variation at the species boundary.
 
-## Systematics of Yellow Bats
+## <b>Systematics of Yellow Bats</b>
 I have been using molecular methods to research Yellow bats since my first year as an undergraduate student, starting by sequencing cytochrome b for the two lineages of <em>Lasiurus intermedius</em>. I am now using Next Gen Sequencing methods to assess evolutionary patterns and speciation in the Yellow bat group.
 
-## Historical Specimen Identification
+## <b>Historical Specimen Identification<b>
 I am currently assisting an undergraduate researcher describe historical legless lizard specimens from CT scans. These specimens were collected during the Civil War in Ohio and are too fragile to be manipulated for morphological work. CT scanning whole specimens allowed us to characterize morpholoical traits without risking damage to the specimens.
 
 # Publications
