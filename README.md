@@ -1,3 +1,4 @@
+![Alt text](https://avatars.githubusercontent.com/u/60198859?v=4 "a title")
 # <b>Sydney K. Decker</b>
 
 I am a Post-Doctoral Scholar at The Ohio State University developing frameworks for integrated species delimitation using high-resolution data and sound data practices. I completed my PhD studying phylogeography and speciation in bats with Bryan Carstens. My dissertation research focused on evaluating evolutionary patterns in yellow bats and is heavily influenced by my interest in data science, machine learning, natural history collections, genomics, and statistics. 
