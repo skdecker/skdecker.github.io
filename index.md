@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ![Alt text](https://avatars.githubusercontent.com/u/60198859?v=4 "a title")
 # <b>About Me</b>
 
