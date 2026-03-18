@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: Sydney K. Decker
-description: This page is under construction
+description:  Post-Doctoral Scholar, Ohio State University
+
+social-network-links:
+  email: "decker.391@osu.edu"
+  github: skdecker
+  google-scholar: https://scholar.google.com/citations?hl=en&user=_9c4NIcAAAAJ
+
