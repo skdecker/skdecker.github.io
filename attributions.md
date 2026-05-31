@@ -1,1 +1,0 @@
-Favicon: <a href="https://www.flaticon.com/free-icons/computational-biology" title="computational biology icons">Computational biology icons created by kliwir art - Flaticon</a>
