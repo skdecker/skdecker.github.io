@@ -1,7 +1,3 @@
-name: ""
-title: null
-
-description: Sydney is a Postdoctoral Scholar at The Ohio State University developing frameworks for integrated species delimitation using high-resolution data and sound data practices.
-
-plugins:
-  - jekyll-seo-tag
+theme: jekyll-theme-cayman
+title: Sydney K. Decker
+description: This page is under construction
